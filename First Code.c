@@ -2,7 +2,10 @@
 int maim()
 {
    int a b;
-printf("");
+printf("Hello World");
+scanf("%d%d",&a,&b);
+return 0;
+}
 
 
 
